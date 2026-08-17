@@ -1,16 +1,16 @@
-## Hi there 👋
 
-<!--
-**leshipai/leshipai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img
+  align="right"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=leshipai&theme=city_lights"
+  alt="Leshipai GitHub profile summary"
+  width="450px"
+/>
 
-Here are some ideas to get you started:
+<img
+  align="left"
+  src="https://count.getloli.com/@Mard?name=Mard&theme=rule34&padding=1&offset=0&align=center&scale=1&pixelated=1&darkmode=auto&prefix=241"
+  alt="Leshipai's visitor counter"
+  width="350px"
+/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br clear="both" />
