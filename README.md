@@ -1,8 +1,6 @@
 <h1></h1>
 
 <div align="center">
-
-Hi, Im Leshipai.
 Read my blog here:  
 https://blog.leshipai.dev
 </div>
