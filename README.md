@@ -12,7 +12,4 @@ https://blog.leshipai.dev
   width="350px"
 />
 
-| CVE ID | Product | Severity |
-|--------|---------|----------|
-
 <br clear="both" />
