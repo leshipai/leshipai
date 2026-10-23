@@ -1,15 +1,18 @@
-
-
 <div align="center">
 
 Read my blog here:  
 https://blog.leshipai.dev
 
 </div>
+
 <img
   align="left"
   src="https://count.getloli.com/@leshipai?name=leshipai&theme=rule34&padding=5&offset=0&align=center&scale=0.5&pixelated=1&darkmode=1&prefix=11"
   alt=""
   width="350px"
 />
+
+| CVE ID | Product | Severity |
+|--------|---------|----------|
+
 <br clear="both" />
