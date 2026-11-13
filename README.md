@@ -1,4 +1,4 @@
-<img src="anime_transparent.gif" width="250" alt="Dancing anime character" align="right">
+<img src="anime_transparent.gif" width="200" alt="Dancing anime character" align="right">
 
 #### Blog
 [blog.leshipai.dev](https://blog.leshipai.dev)
