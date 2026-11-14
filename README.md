@@ -1,7 +1,4 @@
-<img src="anime_transparent.gif" width="300" alt="Dancing anime character" align="right">
-
-#### About
-Hi im Leshipai. Currently in 3rd year. I do security Research mainly web and open source projects. I also do Threat Hunting and Digital Forensics
+<img src="anime_transparent.gif" width="200" alt="Dancing anime character" align="right">
 
 #### CVEs
 1. [Authorization Bypass in Apostrophe CMS](https://github.com/apostrophecms/apostrophe/security/advisories/GHSA-f74v-rxwx-7vv9)
