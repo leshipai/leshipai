@@ -2,4 +2,4 @@
 
 #### Leshipai
 I do security research and threat hunting.<br>
-I have a few attributed [CVEs](https://github.com/leshipai/myCVEs)
+I have a few attributed [CVEs](https://github.com/leshipai/CVEs)
